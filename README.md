@@ -8,3 +8,5 @@ This is an example of how plugins are utilized in my Nuxt project.
 
 
 
+
+
