@@ -7,6 +7,12 @@ You are welcome to use the plugins.
 This is an example of how plugins are utilized in my Nuxt project.
 
 
+![image](https://github.com/user-attachments/assets/dc94e3c8-9437-4710-a379-8409ad4e2a80)
+![image](https://github.com/user-attachments/assets/740387de-fd21-47d4-ad1c-cfb0588a3265)
+
+
+
+
 
 
 
