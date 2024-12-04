@@ -5,6 +5,7 @@
 5.	Build the project by executing: npm run build.
 You are welcome to use the plugins.
 This is an example of how plugins are utilized in my Nuxt project.
+Feel free to check how i have used the custom plugins in my Nuxt Project
 
 
 ![image](https://github.com/user-attachments/assets/dc94e3c8-9437-4710-a379-8409ad4e2a80)
